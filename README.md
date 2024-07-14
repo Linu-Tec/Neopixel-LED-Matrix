@@ -1,7 +1,7 @@
 # Neopixel-LED-Matrix
 Neopixel LED Matrix
 
-Hier ist der Link zu den Platinen: https://www.pcbway.com/project/shareproject/DMX_L_fter_f4af719a.html
+Hier ist der Link zu den Platinen: https://www.pcbway.com/project/shareproject
 
 Und hier könnt ihr selber Platinen bestellen: https://www.pcbway.com/
 
