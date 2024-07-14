@@ -9,7 +9,9 @@ Und hier könnt ihr selber Platinen bestellen: https://www.pcbway.com/
 
 
 Benötigte Library:
+
 [Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)
+
 [Adafruit_NeoMatrix](https://github.com/adafruit/Adafruit_NeoMatrix)
 
 
