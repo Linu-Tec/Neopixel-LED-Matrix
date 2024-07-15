@@ -8,6 +8,8 @@ Und hier könnt ihr selber Platinen bestellen: https://www.pcbway.com/
 ![PCBWay-logo](https://github.com/user-attachments/assets/5b6cc847-74d0-4a24-8ab0-7abbea9422e1)
 
 
+Link zum Video: https://youtu.be/i8-Q13yWyj0
+
 Benötigte Library:
 
 [Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)
